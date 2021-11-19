@@ -1,4 +1,6 @@
-<img src="https://i.giphy.com/media/YxIXSFbuRDFxBHIs0J/giphy.webp" alt="Hi there" align="center" />
+<div align="center">
+    <img src="https://i.giphy.com/media/YxIXSFbuRDFxBHIs0J/giphy.webp" alt="Hi there" />
+</div>
 
 <p align="center" style="margin-top: 20px">
 <a href="https://souravdash.tech/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
