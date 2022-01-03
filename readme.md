@@ -4,7 +4,7 @@
 
 <p align="center" style="margin-top: 20px">
 <a href="https://souravdash.tech/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
-<a href="https://codepen.io/sourav_dash"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
+<a href="https://codepen.io/yetanothersourav"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
 <a href="https://dev.to/yetanothersourav_"><img src="https://img.shields.io/badge/dev.to-2962FF?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/yetanothersourav/"><img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>&nbsp;
 </p>
