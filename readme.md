@@ -18,7 +18,7 @@ I'm self-taught full stack developer from India 🇮🇳 & I create secure & opt
 
 **About me**
 
-- 👨🏻‍💻 Software Developer at [Amdocs](https://www.amdocs.com)
+- 👨🏻‍💻 Software Developer at [f5](https://www.f5.com/)
 
 - ❤️ I love writing javascript, and building awesome stuff in javscript
 
